@@ -1,0 +1,8 @@
+{
+  "name": "@gatsby-repros/gatsby-local-plugin",
+  "version": "1.0.0",
+  "peerDependencies": {
+    "gatsby": "^4.9.0",
+    "@gatsby-repros/gatsby-local-plugin": "*"
+  }
+}

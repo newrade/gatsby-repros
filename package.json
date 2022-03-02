@@ -1,0 +1,9 @@
+{
+  "name": "gatsby-repros",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  }
+}
